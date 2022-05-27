@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CACnB,EAGC,4BAA8B,CAC9B,eAAiB,CACjB,cAAe,CACf,aAAwB","file":"main.afd70260.chunk.css","sourcesContent":["body {\n  text-align: center;\n}\n\np {\n  font-family: Arial, sans-serif;\n  font-weight: bold;\n  font-size: 30px;\n  color: rgb(28, 110, 110);\n}\n"]}
